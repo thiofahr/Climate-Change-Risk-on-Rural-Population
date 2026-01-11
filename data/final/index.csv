@@ -1,0 +1,23 @@
+,index,desc
+0,H1,Max Temperature
+1,H2,Heat Stress
+2,H3,Min Temperature
+3,H4,Temperature Difference
+4,H5,Max 1-day Rainfall
+5,H6,Max 5-days Rainfall
+6,H7,Annual Precipitation
+7,H8,Consecutive Dry Days
+8,H9,Consecutive Wet Days
+9,E1,Agriculture Area
+10,E2,Agriculture GDP
+11,E3,Rural Population
+12,S1,Agriculture Dependency
+13,S2,Agriculture Contribution (GDP)
+14,S3,Smallholder Prevalence
+15,A1,Farmers Group
+16,A2,Extension Officer
+17,A3,Millenial Farmers
+18,A4,Higher Education Level
+19,A5,Irrigated Wetlands
+20,A6,Financial System
+21,A7,Income Diversification
